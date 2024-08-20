@@ -75,10 +75,10 @@ The **Fashion Review Web Application** is a full-stack web application that serv
      npm start
 ```
 
-Contributing
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+# Contributing
+# If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
 
-License
-This project is open-source and available under the MIT License.
+# License
+# This project is open-source and available under the MIT License.
 
 
