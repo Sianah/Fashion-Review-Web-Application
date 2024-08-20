@@ -26,18 +26,18 @@ The **Fashion Review Web Application** is a full-stack web application that serv
    ```bash
    cd fashion_review_backend
    ```
-   # Create a virtual environment
+   #### Create a virtual environment
    ```bash
    python -m venv env
    ```
-   # Activate the virtual environment
+   #### Activate the virtual environment
    
-   # On Linux/Mac
+   ##### On Linux/Mac
    ```bash
    source env/bin/activate
   ```
    
-   # On Windows
+   ##### On Windows
    ```bash
    .\env\Scripts\activate
   ```
