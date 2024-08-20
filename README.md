@@ -21,30 +21,58 @@ The **Fashion Review Web Application** is a full-stack web application that serv
 
    cd fashion-review-web-application
 
-2. Setting up Backend
+### 2. Setting up the Backend
+
+   ```bash
    cd fashion_review_backend
+   ```
+   # Create a virtual environment
+   ```bash
    python -m venv env
-   source env/bin/activate  # On Linux/Mac
-  .\env\Scripts\activate  # On Windows
+   ```
+   # Activate the virtual environment
+   
+   # On Linux/Mac
+   ```bash
+   source env/bin/activate
+  ```
+   
+   # On Windows
+   ```bash
+   .\env\Scripts\activate
+  ```
+
 
   a. Install Backend Dependencies
+  ```bash
      pip install -r requirements.txt
+```
 
   b. Apply Migrations
+  ```bash
      python manage.py migrate
+```
 
   c. Run the Development Server
+  ```bash
     python manage.py runserver
+```
     
-3. Setting up Frontend
+### 3. Setting up Frontend
    a. Navigate to the frontend directory
+   ```bash
      cd ../fashion-review-site
+```
    
    b. Install frontend dependencies
+   ```bash
      npm install
+```
 
    c. Run the frontend development server
+   ```bash
      npm start
+```
 
 Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
