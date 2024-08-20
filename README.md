@@ -44,33 +44,33 @@ The **Fashion Review Web Application** is a full-stack web application that serv
   ```
 
 
-  a. Install Backend Dependencies
+  - Install Backend Dependencies
   ```bash
      pip install -r requirements.txt
 ```
 
-  b. Apply Migrations
+  - Apply Migrations
   ```bash
      python manage.py migrate
 ```
 
-  c. Run the Development Server
+  - Run the Development Server
   ```bash
     python manage.py runserver
 ```
     
 ### 3. Setting up Frontend
-   a. Navigate to the frontend directory
+   - Navigate to the frontend directory
    ```bash
      cd ../fashion-review-site
 ```
    
-   b. Install frontend dependencies
+   - Install frontend dependencies
    ```bash
      npm install
 ```
 
-   c. Run the frontend development server
+   - Run the frontend development server
    ```bash
      npm start
 ```
