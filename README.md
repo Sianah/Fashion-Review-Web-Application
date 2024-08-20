@@ -15,11 +15,12 @@ The **Fashion Review Web Application** is a full-stack web application that serv
 
 ### Installation
 
-1. Clone the Repository:
+### 1. Clone the Repository:
    ```bash
    git clone https://github.com/yourusername/fashion-review-web-application.git
 
    cd fashion-review-web-application
+```
 
 ### 2. Setting up the Backend
 
