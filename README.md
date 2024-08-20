@@ -13,7 +13,7 @@ The **Fashion Review Web Application** is a full-stack web application that serv
   - Built with Django and Django REST Framework.
   - Provides RESTful API endpoints.
 
-### Installation
+## Installation
 
 ### 1. Clone the Repository:
    ```bash
