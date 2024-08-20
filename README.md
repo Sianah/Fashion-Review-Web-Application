@@ -76,9 +76,9 @@ The **Fashion Review Web Application** is a full-stack web application that serv
 ```
 
 # Contributing
-## If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
+### If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
 
 # License
-## This project is open-source and available under the MIT License.
+### This project is open-source and available under the MIT License.
 
 
