@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Node.js related (frontend)
+node_modules/
+build/
+
+# Python related (backend)
+env/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Django specific (backend)
+media/
+staticfiles/
+
+# Environment variables
+.env
+
+# Miscellaneous
+*.log
+*.DS_Store
+.vscode/
+.idea/
